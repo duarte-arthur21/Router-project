@@ -14,7 +14,7 @@ O projeto em questão é uma aplicação Front-end simples construída durante o
 # Tecnologias utilizadas
 ## Front end
 <div style="display:inline_block"></br>
-    <img align="center" alt="React" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div></br>
 
