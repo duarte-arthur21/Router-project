@@ -7,7 +7,9 @@
 O projeto em questão é uma aplicação Front-end simples construída durante o decorrer da formação da [**Plural Systens**](https://pluralsystems.com.br/).
 
 ## Layout Web Browser
-![Layout Mobile](https://github.com/duarte-arthur21/Conversor_moedas/blob/main/Mobile.png)
+![Layout Home](https://github.com/duarte-arthur21/Conversor_moedas/blob/main/Mobile.png)
+![Layout About](https://github.com/duarte-arthur21/Conversor_moedas/blob/main/Mobile.png)
+
 
 # Tecnologias utilizadas
 ## Back end
